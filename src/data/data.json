@@ -1,0 +1,384 @@
+{
+	"roomList" : [
+		{
+			"id": "297c2bc082b64fe9b1eef9375a307e65",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Citi Mall, New Link Rd, Next To Fame Adlabs, Andheri(w)",
+			"bhk": 2,
+			"rentperbed": 9500,
+			"type": "For boys",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/alexandra-gorn-JIUjvqe2ZHg.jpg"
+		},
+		{
+			"id": "58ed92008d4a46e59d81c25b7a7e0035",
+			"location": {
+				"city": "Chennai",
+				"state": "Tamil Nadu"
+			},
+			"address": "Dr.radhakrishnan Salai, 23 Arcot Road",
+			"bhk": 2,
+			"rentperbed": 8300,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": false
+			},
+			"photo": "/img/andrea-davis-VOWXF7lsAN0.jpg"
+		},
+		{
+			"id": "3ac4428c081d4f3489c570eb4b4ac250",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Abdul Rehman Street, Mandvi",
+			"bhk": 2,
+			"rentperbed": 9700,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 2,
+				"kitchen": true,
+				"parking": false,
+				"balcony": true
+			},
+			"photo": "/img/chastity-cortijo-98WE9hWWjiQ.jpg"
+		},
+		{
+			"id": "489a666107484049ab7ff0a0e3237fff",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Sindhi Niwas, Sitladevi Temple, Mahim",
+			"bhk": 2,
+			"rentperbed": 10200,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 2,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/curology-6CJg-fOTYs4.jpg"
+		},
+		{
+			"id": "dc3ba4fe62894969b003431db2b1ce1c",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Naidu Colony, Ghatkopar(e),pant Nagar, Ghatkoper (east)",
+			"bhk": 2,
+			"rentperbed": 9500,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/deborah-cortelazzi-gREquCUXQLI.jpg"
+		},
+		{
+			"id": "a6bf033197e1482c92440cf5bbf4f874",
+			"location": {
+				"city": "Delhi",
+				"state": "Delhi"
+			},
+			"address": "Gurdwara Market, Preet Vihar",
+			"bhk": 3,
+			"rentperbed": 8100,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 2,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/dan-gold-4HG3Ca3EzWw.jpg"
+		},
+		{
+			"id": "7af0fc71f8fb43f3829a6318e1edcad4",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Silva Croft, I C Colony Road, Mandapeshwar",
+			"bhk": 3,
+			"rentperbed": 9100,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": false
+			},
+			"photo": "/img/francesca-tosolini-lLDh9JppH2c.jpg"
+		},
+		{
+			"id": "a0c19080970143d3ab86224c68fc4651",
+			"location": {
+				"city": "Hyderabad",
+				"state": "Andhra Pradesh"
+			},
+			"address": "Lakdi-ka-pool",
+			"bhk": 2,
+			"rentperbed": 8300,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": false
+			},
+			"photo": "/img/francesca-tosolini-qnSTxcs0EEs.jpg"
+		},
+		{
+			"id": "8380bcb0d7a8490293a42a3fc7fed39b",
+			"location": {
+				"city": "Chennai",
+				"state": "Tamil Nadu"
+			},
+			"address": "2nd Floor Devinarayana Off.cpx, Rameswaram Road, T Nagar",
+			"bhk": 1,
+			"rentperbed": 7800,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 1,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/im3rd-media-9USszO6wZqU.jpg"
+		},
+		{
+			"id": "edd0724b101e4d10afad263d3f2b8145",
+			"location": {
+				"city": "Kolkata",
+				"state": "West Bengal"
+			},
+			"address": "3rd Floor, M G Road, Burrabazar",
+			"bhk": 2,
+			"rentperbed": 7300,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/jarek-ceborski-jn7uVeCdf6U.jpg"
+		},
+		{
+			"id": "383a502896b94fd386fae169eb93233e",
+			"location": {
+				"city": "Delhi",
+				"state": "Delhi"
+			},
+			"address": "J-12 Phase 2",
+			"bhk": 3,
+			"rentperbed": 11000,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 2,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/jon-nathon-stebbe-paydk0JcIOQ.jpg"
+		},
+		{
+			"id": "cee6b75fc2564dd2a6fbb6f13097c466",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Girnar, 69 Tardeo Road, Tardeo-tulsiwadi",
+			"bhk": 2,
+			"rentperbed": 9900,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": false
+			},
+			"photo": "/img/kyoshi-reyes-Ps_ujcY0oT8.jpg"
+		},
+		{
+			"id": "d3bd76744c874d01aef9a093008092b5",
+			"location": {
+				"city": "Bangalore",
+				"state": "Karnataka"
+			},
+			"address": "3rd Flr, Royal Sands, Shastri Nagar",
+			"bhk": 3,
+			"rentperbed": 8700,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/marvin-meyer--wzNB4Fsoa0.jpg"
+		},
+		{
+			"id": "517475262b634ad9b69da034b5f91077",
+			"location": {
+				"city": "Bangalore",
+				"state": "Karnataka"
+			},
+			"address": "Ramakrisanppa Layout, 2 Main Geddalahalli, Sanjay Nagar",
+			"bhk": 2,
+			"rentperbed": 8350,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 2,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": false,
+				"balcony": true
+			},
+			"photo": "/img/outsite-co-R-LK3sqLiBw.jpg"
+		},
+		{
+			"id": "54934ec98b3e4511a4aa41a6b3b11995",
+			"location": {
+				"city": "Ahmedabad",
+				"state": "Gujarat"
+			},
+			"address": "Atlanta Tower, Opp Inqulab Society, Gulbai Tekra",
+			"bhk": 3,
+			"rentperbed": 7700,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/sidekix-media-0sDzRgrN_pI.jpg"
+		},
+		{
+			"id": "8cd6ce8c67544883971dc8a9ae5bc54b",
+			"location": {
+				"city": "Bangalore",
+				"state": "Karnataka"
+			},
+			"address": "94/c, Nayandana Halli",
+			"bhk": 3,
+			"rentperbed": 9100,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 3,
+				"bathroom": 2,
+				"kitchen": true,
+				"parking": true,
+				"balcony": false
+			},
+			"photo": "/img/sidekix-media-1vMz2_MclrM.jpg"
+		},
+		{
+			"id": "6d28492ac79949f49bcdf0e1c1acd480",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Midas Enclave, Dadiseth Rd, Goregaon (west)",
+			"bhk": 1,
+			"rentperbed": 12000,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 1,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/sidekix-media-BAVam-y_9Wg.jpg"
+		},
+		{
+			"id": "b06f37d2a65946aa9f8c5d6b026c54a3",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Opp Expro India, Poisar, Sv Road, Kandivli(w)",
+			"bhk": 1,
+			"rentperbed": 11500,
+			"type": "For Girls",
+			"amenities": {
+				"bedroom": 1,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/sidekix-media-r_y2VBvEOIE.jpg"
+		},
+		{
+			"id": "ce590de641d649f7b30e2425a1a96be6",
+			"location": {
+				"city": "Delhi",
+				"state": "Delhi"
+			},
+			"address": "1 Block B, Hari Nagar",
+			"bhk": 1,
+			"rentperbed": 15000,
+			"type": "For Boys",
+			"amenities": {
+				"bedroom": 1,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/vinicius-amnx-amano-17NCG_wOkMY.jpg"
+		},
+		{
+			"id": "88bde05af14a4cd993d2b80633e395ae",
+			"location": {
+				"city": "Mumbai",
+				"state": "Maharashtra"
+			},
+			"address": "Mittal Indl Estate, Marol, Andheri(e)",
+			"bhk": 1,
+			"rentperbed": 14500,
+			"type": "For Family",
+			"amenities": {
+				"bedroom": 1,
+				"bathroom": 1,
+				"kitchen": true,
+				"parking": true,
+				"balcony": true
+			},
+			"photo": "/img/zac-gudakov-A2T5pz4oAIY.jpg"
+		}
+	]
+}
