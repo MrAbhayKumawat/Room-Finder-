@@ -29,28 +29,28 @@ const Room = () => {
 							</Col>
 						</Row>
 						<Row className="room-div">
-							<Col>
+							<Col xs={12} lg={6}>
 								<Row>
 									<Col>
 										<img className="room-img" src={window.location.origin + mainImg} alt="room gallery" />
 									</Col>
 								</Row>
 								<Row className="room-thbrow" >
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin +  room.photo } alt="room gallery thumb" onClick={() => setMainImg(room.photo)} /></Col>
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin + "/img/thumb1.jpg"} alt="room gallery thumb" onClick={() => setMainImg("/img/thumb1.jpg")} /></Col>
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin + "/img/thumb2.jpg"} alt="room gallery thumb" onClick={() => setMainImg("/img/thumb2.jpg")} /></Col>
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin + "/img/thumb3.jpg"} alt="room gallery thumb" onClick={() => setMainImg("/img/thumb3.jpg")} /></Col>
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin + "/img/thumb4.jpg"} alt="room gallery thumb" onClick={() => setMainImg("/img/thumb4.jpg")} /></Col>
-									<Col md={2}>
+									<Col md={2} xs={2}>
 										<img className="room-thbimg" src={window.location.origin + "/img/thumb5.jpg"} alt="room gallery thumb" onClick={() => setMainImg("/img/thumb5.jpg")} /></Col>
 								</Row>
 							</Col>
-							<Col className="room-txtcol">
+							<Col xs={12} lg={6} className="room-txtcol">
 								<p className="room-lochead"><img className="room-locimg" src={window.location.origin + "/img/location.png"} alt="at location" />{room.location.city}, {room.location.state}</p>
 								<p className="room-txt">The prime location provides residents with access to the very best that this city has to offer. The property is situated close to all the basic amenities. It is close to the main road making it highly accessible.</p>
 								<table className="room-tbl"><tbody>

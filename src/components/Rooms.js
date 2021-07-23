@@ -6,7 +6,7 @@ import { Row, Col, Button, Form } from 'react-bootstrap'
 // Card component for each image 
 const Card = (props)=>{
 	return (
-		<Col md="4">
+		<Col xs={12} lg={4} >
 			<Link to={"/rooms/"+props.id} target="_about" className="links">
 				<img className="roomsimg" src={window.location.origin + props.photo} alt="room gallery"/>
 				<p className="roomsloc">{props.city}, {props.state}</p> </Link>
@@ -122,17 +122,14 @@ const Rooms = ()=>{
 	const clearFltr = () => {
 
 		setRange(maxRent)
-		document.getElementById('rent').value = 15000
-		
+		setNewList(roomList);
+
+		document.getElementById('rent').value = 15000		
 		document.getElementById('location').value = "All"
-
 		document.getElementsByName('bhk').forEach( (e)=>{ e.checked=true })
-
 		document.getElementsByName('type').forEach( (e)=>{ e.checked=true })
-
 		document.getElementsByName('amenity').forEach( (e)=>{ e.checked=false })
 
-		setNewList(roomList);
 	}
 
 	return (
@@ -143,12 +140,12 @@ const Rooms = ()=>{
 			<Row className="rooms-div">
 				<Col>
 					<Row className="rooms-hdrow">
-						<Col>
+						<Col xs={12} lg={12}>
 							<h1 className="rooms-hdtxt">Find your Next Favorite Room </h1>
 						</Col>
 					</Row>
 					<Row>
-						<Col md={3} className="fltrcol">							
+						<Col  xs={12} lg={3} className="fltrcol">							
 							<h4>Sort By</h4>	
 							<Form.Group className="mb-3">
 								<select id="sortby" name="sortby" className="fltrslt"
@@ -203,7 +200,7 @@ const Rooms = ()=>{
 							<Button variant="outline-danger" size="sm" onClick={clearFltr}>clear filters</Button>
 						</Col>
 						
-						<Col md={9} className="rooms-col">
+						<Col xs={12} lg={9} className="rooms-col">
 							<Row>
 							{
 								newList.map((room)=>{

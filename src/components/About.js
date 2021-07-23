@@ -15,7 +15,7 @@ const About = () => {
 				<img src="img/load.gif" alt="loading" />
 			</div>
 			<Row className="about-row1">
-				<Col>
+				<Col lg={6} xs={12}>
 					<Row>
 						<Col>
 							<h3>Our Dream</h3>
@@ -29,13 +29,13 @@ const About = () => {
 						</Col>
 					</Row>
 				</Col>
-				<Col>
+				<Col lg={6} xs={12}>
 					<img className="about-img" src={window.location.origin + "/img/parth-duarah-Ns36Qxt8lmY.jpg"} alt="About us" />
 				</Col>
 			</Row>
 			<br />
 			<Row className="about-row2">
-				<Col>
+				<Col lg={6} xs={12}>
 					<h3>Get in Touch! Submit a request.</h3>
 					<br />
 					<form className="about-form">
@@ -62,7 +62,7 @@ const About = () => {
 						<Button>Submit Request</Button>
 					</form>
 				</Col>
-				<Col className="getInTouch-imgcol">
+				<Col className="getInTouch-imgcol" lg={6} xs={12}>
 					<img className="getInTouch-img" src={window.location.origin + "/img/Get in touch-rafiki.png"} alt="Get In Touch img" />
 				</Col>
 			</Row>
