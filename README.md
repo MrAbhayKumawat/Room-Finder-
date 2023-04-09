@@ -14,5 +14,10 @@ Roomate Finder is supposed to be a website that allows you to find rooms in mult
 * Backend Database: JSON
 * Deployment: Heroku, Git
 
+### Preview
+|  |  |
+|---------------|---------------|
+| <a href="https://github.com/Moinuddinsheikh/Roomate-finder/blob/main/public/img/homepagewhole.png" target="_blank"> <img src="/public/img/homepagevisible.png" title="Home page mockup"  width="500" style="text-align:center; "> </a> | <a href="https://github.com/Moinuddinsheikh/Roomate-finder/blob/main/public/img/findroomwhole.png" target="_blank"> <img src="/public/img/findroomvisible.png" title="Find room page"  width="500" style="text-align:center; "> </a> | 
+| <a href="https://github.com/Moinuddinsheikh/Roomate-finder/blob/main/public/img/roomwhole.png" target="_blank"> <img src="/public/img/roomvisible.png" title="Home page mockup"  width="500" style="text-align:center; "> </a> | <a href="https://github.com/Moinuddinsheikh/Roomate-finder/blob/main/public/img/aboutwhole.png" target="_blank"> <img src="/public/img/aboutvivible.png" title="Home page mockup"  width="500" style="text-align:center; "> </a> |
 
 Copyright (c) 2021
