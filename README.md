@@ -14,10 +14,5 @@ Roomate Finder is supposed to be a website that allows you to find rooms in mult
 * Backend Database: JSON
 * Deployment: Heroku, Git
 
-### Visit [My New Roomie Website](https://my-new-roomie.herokuapp.com/) to view it your browser.
 
-## License
-
-[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](/LICENSE)
-
-Copyright (c) 2021-present
+Copyright (c) 2021
