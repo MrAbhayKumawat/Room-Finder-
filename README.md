@@ -1,4 +1,4 @@
-# Roomate Finder
+# Roommate Finder
 
 ##### A ReactJS application to find rooms in multiple cities.
 
