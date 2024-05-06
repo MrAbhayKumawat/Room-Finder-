@@ -2,7 +2,6 @@ import data from "../data/data.json";
 import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
 import { Row, Col, Button, Form } from "react-bootstrap";
-
 // Card component for each image
 const Card = (props) => {
   let {
@@ -46,7 +45,23 @@ const Rooms = () => {
     }, 1000);
   }, []);
 
+
   const roomList = data.roomList;
+  // useEffect(() => {
+  //   async function fetchData() {
+  //     try {
+  //       const response = await axios.get(`https://roomies-data-default-rtdb.firebaseio.com/your-node.json`);
+  //       // Handle the response data
+  //       console.log('Data:', response.data);
+  //       return response.data;
+  //     } catch (error) {
+  //       // Handle errors
+  //       console.error('Error fetching data:', error);
+  //       throw error;
+  //     }
+  //   }
+  //   fetchData()
+  // }, []);
   roomList.sort((a, b) => a.rentperbed - b.rentperbed);
   const [newList, setNewList] = useState(roomList);
 
